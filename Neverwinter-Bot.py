@@ -124,4 +124,4 @@ for target_image_path in image_files:
     # Simulate pressing the "Enter" key using pydirectinput
     pydirectinput.press("enter")
 
-    # Rest of the code...
+    
