@@ -1,5 +1,4 @@
-#run the game then run this code to pre-requisite checks- make sure to type names of the characters you want to invoke in the target_text.txt
-
+#Run the game then run this code to pre-requisite checks- make sure to type names of the characters you want to invoke in the target_text.txt
 
 import pyautogui
 import win32gui
