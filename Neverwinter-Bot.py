@@ -114,5 +114,3 @@ pydirectinput.press("tab")
 time.sleep(2)
 # Simulate pressing the "Enter" key using pydirectinput
 pydirectinput.press("enter")
-
-# Rest of the code...
