@@ -22,3 +22,7 @@ The repository includes the following scripts:
    cd Neverwinter-Invocation
    python meet_pre-requisites.py
 
+Once the prerequisites are met, run the Neverwinter-Bot.py script daily to invoke all your characters:
+
+```bash
+python Neverwinter-Bot.py
