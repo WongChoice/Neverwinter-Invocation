@@ -12,7 +12,7 @@ The repository includes the following scripts:
 
 - **Neverwinter-Bot.py**:
   - Main Python script to automate tasks in Neverwinter.
-  - Invokes all your characters one after another and performs designated actions.
+  - Invokes all your characters one after another and performs their invocation.
 
 ## Usage:
 
