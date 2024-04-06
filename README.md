@@ -1,12 +1,24 @@
-Invokes all your character in sequence how you put the character names in the text file attached
+# Neverwinter Character Invoker
 
-git clone the repo
+This repository contains scripts to automate tasks in the game Neverwinter. It provides functionality to invoke all your characters in sequence, as well as scanning through the game saving a bunch of images for future references.
 
-run ' python 'meet pre-requisites.py''
+## Description:
 
-This scans through the game saving bunch of images for future references
+The repository includes the following scripts:
 
-Once done 
-run 'python Neverwinter-Bot.py' daily
+- **meet_pre-requisites.py**:
+  - Python script to meet prerequisites for running the Neverwinter bot.
+  - Ensures that necessary dependencies and setup requirements are met.
 
-For invoking all your characters one after another .
+- **Neverwinter-Bot.py**:
+  - Main Python script to automate tasks in Neverwinter.
+  - Invokes all your characters one after another and performs designated actions.
+
+## Usage:
+
+1. Clone the repository to your local machine using the following command:
+   ```bash
+   git clone https://github.com/WongChoice/Neverwinter-Invocation
+   cd Neverwinter-Invocation
+   python meet_pre-requisites.py
+
