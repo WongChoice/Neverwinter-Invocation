@@ -26,3 +26,12 @@ Once the prerequisites are met, run the Neverwinter-Bot.py script daily to invok
 
 ```bash
 python Neverwinter-Bot.py
+```
+Note:
+
+- Ensure that Python is installed on your system.
+- Customize the scripts as needed to suit your specific game automation requirements.
+- Use the scripts responsibly and in accordance with the game's terms of service.
+
+License:
+This repository is provided under an open-source license. See the LICENSE file for details.
