@@ -32,4 +32,5 @@ Note:
 - Ensure that Python is installed on your system.
 - Customize the scripts as needed to suit your specific game automation requirements.
 - Use the scripts responsibly and in accordance with the game's terms of service.
+- Please note that this uses OpenCV library so chance of detection is nil unless u admit it urself.
 
