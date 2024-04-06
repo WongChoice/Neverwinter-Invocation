@@ -24,9 +24,9 @@ The repository includes the following scripts:
 
 2. Once the prerequisites are met, run the Neverwinter-Bot.py script daily to invoke all your characters:
 
-```bash
-python Neverwinter-Bot.py
-```
+  ```bash
+  python Neverwinter-Bot.py
+  ```
 Note:
 
 - Ensure that Python is installed on your system.
